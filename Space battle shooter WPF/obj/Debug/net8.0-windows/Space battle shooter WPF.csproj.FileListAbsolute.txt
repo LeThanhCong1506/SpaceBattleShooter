@@ -1,0 +1,63 @@
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.exe
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.deps.json
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.runtimeconfig.json
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.dll
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.pdb
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF_MarkupCompile.cache
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF_MarkupCompile.lref
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.g.resources
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.dll
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\refint\Space battle shooter WPF.dll
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.pdb
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\PRN212\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\ref\Space battle shooter WPF.dll
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.exe
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.deps.json
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.runtimeconfig.json
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.dll
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.pdb
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF_MarkupCompile.cache
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF_MarkupCompile.lref
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.g.resources
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.AssemblyInfoInputs.cache
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.AssemblyInfo.cs
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.csproj.CoreCompileInputs.cache
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.dll
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\refint\Space battle shooter WPF.dll
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.pdb
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.genruntimeconfig.cache
+D:\Space battle shooter WPF\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\ref\Space battle shooter WPF.dll
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.exe
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.deps.json
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.runtimeconfig.json
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.dll
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\bin\Debug\net8.0-windows\Space battle shooter WPF.pdb
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Menu.g.cs
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF_MarkupCompile.cache
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF_MarkupCompile.lref
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Menu.baml
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.g.resources
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.dll
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\refint\Space battle shooter WPF.dll
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.pdb
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\Space battle shooter WPF.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\SE1865_Team8386_SpaceShooter\PRN - game\Space battle shooter WPF\Space battle shooter WPF\obj\Debug\net8.0-windows\ref\Space battle shooter WPF.dll
