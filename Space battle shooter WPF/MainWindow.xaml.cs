@@ -64,12 +64,12 @@ namespace Space_battle_shooter_WPF
             gameTimer.Start();
             MyCanvas.Focus();
 
-            // Load sounds
-            shootSound.Open(new Uri("pack://application:,,,/Sound/laser-gun-174976.wav"));
-            explosionSound.Open(new Uri("pack://application:,,,/Sound/medium-explosion-40472.wav"));
-            introSound.Open(new Uri("pack://application:,,,/Sound/intro.wav"));
-            hitDamage.Open(new Uri("pack://application:,,,/Sound/damage.wav"));
-            lose.Open(new Uri("pack://application:,,,/Sound/lose.wav"));
+            // Load sounds (please adjust your sound folder path to the sound files)
+            shootSound.Open(new Uri("pack://application:,,,/Sounds/laser-gun-174976.wav"));
+            explosionSound.Open(new Uri("pack://application:,,,/Sounds/medium-explosion-40472.wav"));
+            introSound.Open(new Uri("pack://application:,,,/Sounds/intro.mp3"));
+            hitDamage.Open(new Uri("pack://application:,,,/Sounds/damage.wav"));
+            lose.Open(new Uri("pack://application:,,,/Sounds/lose.wav"));
             introSound.Play();
 
             // Set background image
@@ -95,7 +95,7 @@ namespace Space_battle_shooter_WPF
                 Stroke = Brushes.Cyan
             };
             Canvas.SetTop(newBullet1, Canvas.GetTop(player) - newBullet1.Height);
-            Canvas.SetLeft(newBullet1, Canvas.GetLeft(player) + player.Width / 2 - 10); // Adjust position for the first bullet
+            Canvas.SetLeft(newBullet1, Canvas.GetLeft(player) + player.Width / 2 - 4); // Adjust position for the first bullet
             MyCanvas.Children.Add(newBullet1);
 
             if (hasCollectedBulletItem)
@@ -390,7 +390,9 @@ namespace Space_battle_shooter_WPF
         private void EndGame()
         {
             gameTimer.Stop();
-            enemyShootingTimer.Stop(); // Dừng bắn đạn của kẻ thù
+            enemyShootingTimer.Stop();
+            shootingTimer.Stop();
+            bulletMoveTimer.Stop();
             lose.Play();
             introSound.Stop();
             MessageBoxResult result = MessageBox.Show("You have lost!" + Environment.NewLine + "You have destroyed " + score + " Alien ships", "Game Over", MessageBoxButton.OK);
@@ -410,8 +412,6 @@ namespace Space_battle_shooter_WPF
                 // Clear any bullets that may have been shot
                 itemsToRemove.Clear(); // Ensure itemsToRemove is cleared to reset bullet state
 
-
-
                 // Reset player position
                 Canvas.SetLeft(player, MyCanvas.ActualWidth / 2 - player.Width / 2);
                 Canvas.SetTop(player, MyCanvas.ActualHeight - player.Height - 10);
@@ -420,11 +420,20 @@ namespace Space_battle_shooter_WPF
                 hasCollectedBulletItem = false;
                 hasCollectedSecondBulletItem = false;
 
+                // Reset movement flags
+                moveLeft = false;
+                moveRight = false;
+                moveUp = false;
+                moveDown = false;
+
                 // Restart timers
                 gameTimer.Start();
                 shootingTimer.Start();
                 enemyShootingTimer.Start();
                 bulletMoveTimer.Start();
+
+                // Ensure the player can control the plane again
+                MyCanvas.Focus();
             }
         }
 

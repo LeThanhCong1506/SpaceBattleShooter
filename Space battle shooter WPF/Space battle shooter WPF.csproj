@@ -21,11 +21,6 @@
     <None Remove="Images\player.png" />
     <None Remove="Images\purple.png" />
     <None Remove="Images\z6035094980366_cbabde7ef03bb75023d5a53014280bce.jpg" />
-    <None Remove="Sound\damage.wav" />
-    <None Remove="Sound\intro.wav" />
-    <None Remove="Sound\laser-gun-174976.wav" />
-    <None Remove="Sound\lose.wav" />
-    <None Remove="Sound\medium-explosion-40472.wav" />
   </ItemGroup>
 
   <ItemGroup>
@@ -40,11 +35,10 @@
     <Resource Include="Images\player.png" />
     <Resource Include="Images\purple.png" />
     <Resource Include="Images\z6035094980366_cbabde7ef03bb75023d5a53014280bce.jpg" />
-    <Resource Include="Sound\damage.wav" />
-    <Resource Include="Sound\intro.wav" />
-    <Resource Include="Sound\laser-gun-174976.wav" />
-    <Resource Include="Sound\lose.wav" />
-    <Resource Include="Sound\medium-explosion-40472.wav" />
+    <Resource Include="Sounds\damage.wav" />
+    <Resource Include="Sounds\laser-gun-174976.wav" />
+    <Resource Include="Sounds\lose.wav" />
+    <Resource Include="Sounds\medium-explosion-40472.wav" />
   </ItemGroup>
 
 </Project>
