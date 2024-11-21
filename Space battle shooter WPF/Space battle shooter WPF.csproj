@@ -21,6 +21,17 @@
     <None Remove="Images\player.png" />
     <None Remove="Images\purple.png" />
     <None Remove="Images\z6035094980366_cbabde7ef03bb75023d5a53014280bce.jpg" />
+    <None Remove="Sounds\damage.mp3" />
+    <None Remove="Sounds\intro.mp3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Sounds\damage.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sounds\intro.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
@@ -44,10 +55,15 @@
     <Resource Include="Images\player.png" />
     <Resource Include="Images\purple.png" />
     <Resource Include="Images\z6035094980366_cbabde7ef03bb75023d5a53014280bce.jpg" />
-    <Resource Include="Sounds\damage.wav" />
-    <Resource Include="Sounds\laser-gun-174976.wav" />
-    <Resource Include="Sounds\lose.wav" />
-    <Resource Include="Sounds\medium-explosion-40472.wav" />
+    <Content Include="Sounds\laser-gun-174976.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sounds\lose.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Sounds\medium-explosion-40472.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>

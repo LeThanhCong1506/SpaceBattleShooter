@@ -69,12 +69,12 @@ namespace Space_battle_shooter_WPF
             gameTimer.Start();
             MyCanvas.Focus();
 
-            // Load sounds (please adjust your sound folder path to the sound files)
-            shootSound.Open(new Uri("pack://application:,,,/Sounds/laser-gun-174976.wav"));
-            explosionSound.Open(new Uri("pack://application:,,,/Sounds/medium-explosion-40472.wav"));
-            introSound.Open(new Uri("pack://application:,,,/Sounds/intro.mp3"));
-            hitDamage.Open(new Uri("pack://application:,,,/Sounds/damage.wav"));
-            lose.Open(new Uri("pack://application:,,,/Sounds/lose.wav"));
+            // Load sounds (using relative paths)
+            shootSound.Open(new Uri("Sounds/laser-gun-174976.mp3", UriKind.Relative));
+            explosionSound.Open(new Uri("Sounds/medium-explosion-40472.mp3", UriKind.Relative));
+            introSound.Open(new Uri("Sounds/intro.mp3", UriKind.Relative));
+            hitDamage.Open(new Uri("Sounds/damage.mp3", UriKind.Relative));
+            lose.Open(new Uri("Sounds/lose.mp3", UriKind.Relative));
             introSound.Play();
 
             // Set background image
@@ -84,7 +84,7 @@ namespace Space_battle_shooter_WPF
 
             // Set player image
             ImageBrush playerImage = new ImageBrush();
-            playerImage.ImageSource = new BitmapImage(new Uri("pack://application:,,/Images/player.png"));
+            playerImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/Images/player.png"));
             player.Fill = playerImage;
         }
 
@@ -446,6 +446,7 @@ namespace Space_battle_shooter_WPF
             bulletMoveTimer.Stop();
             lose.Play();
             introSound.Stop();
+            shootSound.Stop();
             MessageBoxResult result = MessageBox.Show("You have lost!" + Environment.NewLine + "You have destroyed " + score + " Alien ships", "Game Over", MessageBoxButton.OK);
 
             if (result == MessageBoxResult.OK)
@@ -489,6 +490,9 @@ namespace Space_battle_shooter_WPF
                     shootingTimer.Start();
                     enemyShootingTimer.Start();
                     bulletMoveTimer.Start();
+
+                    introSound.Play();
+                    shootSound.Play();
 
                     // Ensure the player can control the plane again
                     MyCanvas.Focus();

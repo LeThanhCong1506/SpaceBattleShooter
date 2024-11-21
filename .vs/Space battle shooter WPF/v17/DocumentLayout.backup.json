@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|d:\\spacebattleshooter\\spacebattleshooter\\space battle shooter wpf\\scoreboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|solutionrelative:space battle shooter wpf\\scoreboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|d:\\spacebattleshooter\\spacebattleshooter\\space battle shooter wpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|solutionrelative:space battle shooter wpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|d:\\spacebattleshooter\\spacebattleshooter\\space battle shooter wpf\\scoreboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|solutionrelative:space battle shooter wpf\\scoreboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|d:\\spacebattleshooter\\spacebattleshooter\\space battle shooter wpf\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|solutionrelative:space battle shooter wpf\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|d:\\spacebattleshooter\\spacebattleshooter\\space battle shooter wpf\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|solutionrelative:space battle shooter wpf\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|d:\\spacebattleshooter\\spacebattleshooter\\space battle shooter wpf\\scoreboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|solutionrelative:space battle shooter wpf\\scoreboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|d:\\spacebattleshooter\\spacebattleshooter\\space battle shooter wpf\\scoreboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|solutionrelative:space battle shooter wpf\\scoreboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59FE0F5E-4364-4C50-854B-3FE3864CDAF2}|Service\\Service.csproj|d:\\spacebattleshooter\\spacebattleshooter\\service\\services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59FE0F5E-4364-4C50-854B-3FE3864CDAF2}|Service\\Service.csproj|solutionrelative:service\\services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|d:\\spacebattleshooter\\spacebattleshooter\\space battle shooter wpf\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FD10972-7C83-43AA-A4FF-2435CFFE5E90}|Space battle shooter WPF\\Space battle shooter WPF.csproj|solutionrelative:space battle shooter wpf\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63DECDFF-2D35-4DAD-A419-B21B64550F05}|Repository\\Repository.csproj|d:\\spacebattleshooter\\spacebattleshooter\\repository\\repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,21 +73,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScoreService.cs",
-              "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Service\\Services\\ScoreService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\ScoreService.cs",
-              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Service\\Services\\ScoreService.cs",
-              "RelativeToolTip": "Service\\Services\\ScoreService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:02:12.08Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -114,19 +101,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ScoreBoard.xaml.cs",
-              "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml.cs",
-              "RelativeDocumentMoniker": "Space battle shooter WPF\\ScoreBoard.xaml.cs",
-              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml.cs*",
-              "RelativeToolTip": "Space battle shooter WPF\\ScoreBoard.xaml.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAEwCEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:05:13.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ScoreBoard.xaml",
               "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml",
@@ -134,12 +108,11 @@
               "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml",
               "RelativeToolTip": "Space battle shooter WPF\\ScoreBoard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-21T13:49:52.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:49:52.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Menu.xaml.cs",
               "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\Menu.xaml.cs",
               "RelativeDocumentMoniker": "Space battle shooter WPF\\Menu.xaml.cs",
@@ -147,33 +120,55 @@
               "RelativeToolTip": "Space battle shooter WPF\\Menu.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T06:05:09.211Z",
+              "WhenOpened": "2024-11-16T06:05:09.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Space battle shooter WPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Space battle shooter WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:46:53.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ScoreBoard.xaml.cs",
+              "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml.cs",
+              "RelativeDocumentMoniker": "Space battle shooter WPF\\ScoreBoard.xaml.cs",
+              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml.cs",
+              "RelativeToolTip": "Space battle shooter WPF\\ScoreBoard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:05:13.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreService.cs",
+              "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Service\\Services\\ScoreService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ScoreService.cs",
+              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Service\\Services\\ScoreService.cs",
+              "RelativeToolTip": "Service\\Services\\ScoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:02:12.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Menu.xaml",
               "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\Menu.xaml",
               "RelativeDocumentMoniker": "Space battle shooter WPF\\Menu.xaml",
               "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\Menu.xaml",
               "RelativeToolTip": "Space battle shooter WPF\\Menu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-15T03:58:04.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Space battle shooter WPF\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Space battle shooter WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAawCUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:46:53.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T03:58:04.257Z"
             },
             {
               "$type": "Document",
@@ -185,8 +180,7 @@
               "RelativeToolTip": "Repository\\Repositories\\ScoreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:57:11.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T14:57:11.805Z"
             },
             {
               "$type": "Document",
@@ -198,8 +192,7 @@
               "RelativeToolTip": "Repository\\ScoreBoardDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:52:18.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T14:52:18.419Z"
             },
             {
               "$type": "Document",
@@ -211,21 +204,19 @@
               "RelativeToolTip": "Space battle shooter WPF\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T14:52:51.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T14:52:51.118Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Space battle shooter WPF",
+              "Title": "Space battle shooter WPF.csproj",
               "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\Space battle shooter WPF.csproj",
               "RelativeDocumentMoniker": "Space battle shooter WPF\\Space battle shooter WPF.csproj",
-              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\Space battle shooter WPF.csproj*",
-              "RelativeToolTip": "Space battle shooter WPF\\Space battle shooter WPF.csproj*",
+              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\Space battle shooter WPF.csproj",
+              "RelativeToolTip": "Space battle shooter WPF\\Space battle shooter WPF.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-21T14:03:26.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T14:03:26.975Z"
             },
             {
               "$type": "Document",
@@ -237,8 +228,7 @@
               "RelativeToolTip": "Repository\\Entities\\ScoreSorted.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:51:48.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T14:51:48.072Z"
             },
             {
               "$type": "Document",
@@ -250,8 +240,7 @@
               "RelativeToolTip": "Repository\\Entities\\Score.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:51:11.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T14:51:11.051Z"
             },
             {
               "$type": "Document",
@@ -262,8 +251,7 @@
               "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\MainWindow.xaml",
               "RelativeToolTip": "Space battle shooter WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-14T10:46:50.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T10:46:50.287Z"
             },
             {
               "$type": "Document",
@@ -273,8 +261,7 @@
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
               "ViewState": "AgIAAKECAAAAAAAAAADgv8QCAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-11-20T17:09:55.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T17:09:55.26Z"
             },
             {
               "$type": "Document",
@@ -297,8 +284,7 @@
               "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\App.xaml",
               "RelativeToolTip": "Space battle shooter WPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-15T04:52:27.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T04:52:27.508Z"
             }
           ]
         },
