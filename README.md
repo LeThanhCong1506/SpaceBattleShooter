@@ -1,6 +1,7 @@
 # Space Battle Shooter 🚀🚀🚀
 
-![Game Screenshot](https://github.com/user-attachments/assets/54d6f7cd-e90b-458e-9774-d18aa93c4bad)
+
+![Game Screenshot](https://github.com/user-attachments/assets/a667ab68-54c4-48db-8f31-3ff8eba81596)
 
 ## Introduction
 **Space Battle Shooter** is an exciting 2D space shooter game developed in C#. In this game, you control a spaceship and battle against space enemies. The game features beautiful 2D graphics, lively sound effects, and challenging levels.
