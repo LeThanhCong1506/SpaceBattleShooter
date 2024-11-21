@@ -24,6 +24,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Service\Service.csproj">
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="Images\1.png" />
     <Resource Include="Images\2.png" />
     <Resource Include="Images\3.png" />
@@ -39,6 +48,12 @@
     <Resource Include="Sounds\laser-gun-174976.wav" />
     <Resource Include="Sounds\lose.wav" />
     <Resource Include="Sounds\medium-explosion-40472.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
