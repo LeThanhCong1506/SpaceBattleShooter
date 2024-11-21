@@ -1,8 +1,6 @@
 # Space Battle Shooter 🚀🚀🚀
 
-![Game Screenshot]
-SpaceBattleShooter/imgs/Screenshot 2024-11-22 005415.png
-
+![Game Screenshot](https://github.com/user-attachments/assets/54d6f7cd-e90b-458e-9774-d18aa93c4bad)
 
 ## Introduction
 **Space Battle Shooter** is an exciting 2D space shooter game developed in C#. In this game, you control a spaceship and battle against space enemies. The game features beautiful 2D graphics, lively sound effects, and challenging levels.
@@ -29,6 +27,6 @@ SpaceBattleShooter/imgs/Screenshot 2024-11-22 005415.png
 ## Contact
 If you have any questions, feel free to contact us via email: [thanhcongle666@gmail.com](mailto:thanhcongle666@gmail.com).
 
-![Logo](Space battle shooter WPF/Images/3.png)
+![Logo](https://github.com/user-attachments/assets/0ad03325-4ccb-49e9-9e9b-3646e7300038)
 
 You can view the latest commits [here](https://github.com/LeThanhCong1506/SpaceBattleShooter/commits/main).
