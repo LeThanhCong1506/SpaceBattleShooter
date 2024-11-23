@@ -459,6 +459,7 @@ namespace Space_battle_shooter_WPF
                     score = 0;
                     damage = 100;
                     enemyCounter = 100;
+                    countEatBullet = 0;
 
                     // Clear all bullets and enemies from the Canvas
                     foreach (var item in MyCanvas.Children.OfType<Rectangle>().Where(r => (string)r.Tag == "bullet" || (string)r.Tag == "enemy" || (string)r.Tag == "enemyBullet" || (string)r.Tag == "healthItem" || (string)r.Tag == "bulletItem").ToList())
@@ -600,6 +601,7 @@ namespace Space_battle_shooter_WPF
             score = 0;
             damage = 100;
             enemyCounter = 100;
+            countEatBullet = 0;
 
             // Clear all bullets and enemies from the Canvas
             foreach (var item in MyCanvas.Children.OfType<Rectangle>().Where(r => (string)r.Tag == "bullet" || (string)r.Tag == "enemy" || (string)r.Tag == "enemyBullet" || (string)r.Tag == "healthItem" || (string)r.Tag == "bulletItem").ToList())
@@ -610,8 +612,6 @@ namespace Space_battle_shooter_WPF
             // Clear any bullets that may have been shot
             itemsToRemove.Clear(); // Ensure itemsToRemove is cleared to reset bullet state
 
-
-
             // Reset player position
             Canvas.SetLeft(player, MyCanvas.ActualWidth / 2 - player.Width / 2);
             Canvas.SetTop(player, MyCanvas.ActualHeight - player.Height - 10);
@@ -619,12 +619,26 @@ namespace Space_battle_shooter_WPF
             // Reset bullet collection flags
             hasCollectedBulletItem = false;
             hasCollectedSecondBulletItem = false;
+            hasCollectedThirdBulletItem = false;
+            hasCollectedForthBulletItem = false;
+
+            // Reset movement flags
+            moveLeft = false;
+            moveRight = false;
+            moveUp = false;
+            moveDown = false;
 
             // Restart timers
             gameTimer.Start();
             shootingTimer.Start();
             enemyShootingTimer.Start();
             bulletMoveTimer.Start();
+
+            introSound.Play();
+            shootSound.Play();
+
+            // Ensure the player can control the plane again
+            MyCanvas.Focus();
         }
 
         private void MainButton_Click(object sender, RoutedEventArgs e)

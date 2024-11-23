@@ -73,7 +73,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,17 +101,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScoreBoard.xaml",
-              "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml",
-              "RelativeDocumentMoniker": "Space battle shooter WPF\\ScoreBoard.xaml",
-              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml",
-              "RelativeToolTip": "Space battle shooter WPF\\ScoreBoard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-21T13:49:52.434Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Menu.xaml.cs",
               "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\Menu.xaml.cs",
@@ -130,10 +119,21 @@
               "RelativeDocumentMoniker": "Space battle shooter WPF\\MainWindow.xaml.cs",
               "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "Space battle shooter WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAIcCAAAAAAAAAAAqwEkAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAEsCAAAAAAAAAAAuwIACAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T10:46:53.377Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreBoard.xaml",
+              "DocumentMoniker": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml",
+              "RelativeDocumentMoniker": "Space battle shooter WPF\\ScoreBoard.xaml",
+              "ToolTip": "D:\\SpaceBattleShooter\\SpaceBattleShooter\\Space battle shooter WPF\\ScoreBoard.xaml",
+              "RelativeToolTip": "Space battle shooter WPF\\ScoreBoard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T13:49:52.434Z"
             },
             {
               "$type": "Document",
