@@ -47,8 +47,8 @@
 
 ## 📬 Contact
 Have questions or feedback? Reach out to us!
-📧 Email: thanhcongle666@gmail.com
-🐦 Linkedin: www.linkedin.com/in/lethanhcong1506
+- 📧 Email: thanhcongle666@gmail.com
+- 🐦 Linkedin: www.linkedin.com/in/lethanhcong1506
 
 ---
 🛸 **Enjoy the game and conquer the galaxy!** 🛸
