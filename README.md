@@ -39,7 +39,11 @@
 - **Sql server** – Store user's score.
 
 ## 📷 Screenshots & Media
+![Game Screenshot](https://github.com/LeThanhCong1506/SpaceBattleShooter/blob/main/imgs/Screenshot%202025-03-01%20183347.png)
+
 ![Game Screenshot](https://github.com/user-attachments/assets/931a623d-2f53-48e4-b988-6e4181f0c1c8)
+
+![Game Screenshot](https://github.com/LeThanhCong1506/SpaceBattleShooter/blob/main/imgs/Screenshot%202025-03-01%20183524.png)
 
 ## 📬 Contact
 Have questions or feedback? Reach out to us!
